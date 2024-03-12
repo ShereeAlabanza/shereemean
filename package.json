@@ -1,0 +1,26 @@
+{
+  "name": "shereemean",
+  "version": "1.0.0",
+  "description": "Avgify provides user-friendly averaging solutions, simplifying the process of deriving means from data sets, ensuring efficiency and accuracy in your numerical analysis tasks.",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "shereemean": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShereeAlabanza/shereemean.git"
+  },
+  "homepage": "https://github.com/ShereeAlabanza/shereemean/blob/main/README.md",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "ShereeAlabanza",
+  "license": "MIT"
+}
